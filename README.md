@@ -80,12 +80,12 @@ A real-time messaging application with group chats and file sharing capabilities
 
 I'm always open to interesting conversations and opportunities. Feel free to reach out to me through any of the platforms below:
 
-- **Email:** [email@example.com](mailto:email@example.com)
-- **Website:** [cryst.dev](https://cryst.dev)
-- **LinkedIn:** [linkedin.com/in/cryst](https://linkedin.com/in/cryst)
-- **Twitter:** [twitter.com/cryst](https://twitter.com/cryst)
-- **GitHub:** [github.com/cryst](https://github.com/cryst)
+- **Email:** [email@example.com](mailto:crystdev.com)
+- **Website:** [cryst.dev](https://crystdev.com)
+- **LinkedIn:** [linkedin.com/in/cryst](https://linkedin.com/in/cstcryst)
+- **Twitter:** [twitter.com/cryst](https://twitter.com/cstcryst)
+- **GitHub:** [github.com/cryst](https://github.com/cstcryst)
 
 ---
 
-⭐️ From [cryst](https://github.com/cryst)
+⭐️ From [cryst](https://github.com/cstcryst)
